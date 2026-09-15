@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto consiste en una guía de estudio digital sencilla, desarrollada como una página HTML básica. Su finalidad es organizar recomendaciones prácticas para planificar el estudio, distribuir el tiempo y mantener un seguimiento de las tareas académicas.
+La guía está pensada como un recurso digital sencillo para estudiantes universitarios. Presenta recomendaciones de planificación, organización del tiempo y seguimiento de las actividades académicas.
 
 ## Objetivo
 
