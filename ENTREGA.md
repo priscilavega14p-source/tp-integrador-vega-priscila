@@ -2,15 +2,15 @@
 
 ## Datos del participante
 
-- Nombre y apellido: [COMPLETAR]
-- Curso: [COMPLETAR]
-- Fecha de entrega: 15/09/2026
+- Nombre y apellido: Priscila Vega
+- Curso: Introduccion a Git y GitHub para la gestion de proyectos digitales
+- Fecha de entrega: 11/09/2026
 
 ## Enlaces
 
-- Repositorio de GitHub: [PEGAR AQUÍ EL ENLACE AL REPOSITORIO]
-- Issue: [PEGAR AQUÍ EL ENLACE A LA ISSUE]
-- Pull request: [PEGAR AQUÍ EL ENLACE A LA PULL REQUEST]
+- Repositorio de GitHub: https://github.com/priscilavega14p-source/tp-integrador-vega-priscila
+- Issue: https://github.com/priscilavega14p-source/tp-integrador-vega-priscila/issues/1
+- Pull request: https://github.com/priscilavega14p-source/tp-integrador-vega-priscila/pull/2
 
 ## Comandos principales utilizados
 
