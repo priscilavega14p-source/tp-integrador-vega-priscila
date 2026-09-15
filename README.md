@@ -17,7 +17,7 @@ El objetivo es desarrollar un material digital simple y ordenado que permita pre
 
 ## Autor
 
-Nombre y apellido: [COMPLETAR]
+Nombre y apellido: Priscila Vega 
 
 ## Estado del proyecto
 
