@@ -50,3 +50,5 @@ También puede ser necesario comprobar que la rama principal se llame `main` ant
 ## Reflexión final
 
 La realización de este trabajo permitió comprender cómo Git ayuda a controlar las diferentes versiones de un proyecto y cómo GitHub permite publicar y colaborar sobre ese trabajo. Se aprendió a registrar cambios mediante commits, trabajar de manera independiente en una rama y luego integrar las modificaciones a la rama principal. También se comprendió la utilidad de las issues para organizar tareas y de las pull requests para revisar e incorporar cambios. En conjunto, Git y GitHub permiten mantener los proyectos digitales más ordenados, trazables y fáciles de compartir.
+El uso de Git y GitHub permitio comprender la importancia del control de versiones y de mantener un registro ordenado de los cambios realizados. Tambien aprendi a trabajar con ramas, commits, issues y pull requests para organizar mejor un proyecto final 
+
